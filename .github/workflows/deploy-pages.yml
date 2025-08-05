@@ -15,7 +15,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      REPO_URL: "Stars-Wang/cyan.github.io"  # 远程仓库的 URL
+      REPO_URL: "Stars-Wang/Stars-Wang.github.io"  # 远程仓库的 URL
       BUILD_PATH: ".vitepress/dist"  # 构建输出路径
       CUSTOM_DOMAIN: "cyan.github.io"  # 自定义域名
 
